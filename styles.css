@@ -1,0 +1,13 @@
+h2{color: white;
+
+}
+
+section{ 
+    background: radial-gradient(rgb(143, 44, 143), rgb(87, 9, 87))
+}
+
+body{
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
